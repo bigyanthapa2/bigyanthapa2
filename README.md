@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=F72060&width=435&lines=Hi+!++This+is+Pratik;Welcome+to+my+Profile;Lets+Connect+Together)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=F72060&width=435&lines=Hi+!++This+is+Bigyan Thapa;Welcome+to+my+Profile;Lets+Connect+Together)](https://git.io/typing-svg)
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
@@ -6,8 +6,7 @@
 
 <br><br>
 - 🌱 I’m currently learning Frontend .
-- 🔭 I’m currently working on React Js .
-- 📫 How to reach me: https://www.linkedin.com/in/pratik-sharma-937909290/
+- 🔭 I’m currently working on javascript .
 - 😄 Pronouns: he/him
 <br>
 
@@ -31,11 +30,7 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-  &emsp;
-</p>
+
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
