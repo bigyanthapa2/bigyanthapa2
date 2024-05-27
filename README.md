@@ -19,7 +19,7 @@
 ⚡ Fun fact  **"You can't hum while holding your nose."**
 
  </div>
- <h3>You can contact me on:</h3>
+ <h3 align="center" color="yellow">You can contact me on :</h3>
  
 <div align="center"> 
   <a href="thapabigyan860@gmail.com">
