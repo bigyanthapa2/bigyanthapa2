@@ -4,15 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bigyan+Thapa!;" />
 </h1>
 
-<h3 align="center">Iam a learning Frontend currently</h3>
+<h3 align="center">I am currently learning Frontend </h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently learning **Javascript**
- 
- 🌱 I’m currently learning **Java**
+ ⌛- Javascript
+    
+ ⏩- Java
 
 💬 Ask me about **Node.js, React, Css , HTML or anything [here]()**<br>
 
