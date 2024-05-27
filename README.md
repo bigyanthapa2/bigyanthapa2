@@ -71,10 +71,10 @@
 <br/>
 
 <div align="center">
-<button class="button-55" role="button"  align-self: center;
+<button style="background-color:"blue";>Know Me</button> 
  
 
 
->Know Me</button>
+
 
 <br/>
