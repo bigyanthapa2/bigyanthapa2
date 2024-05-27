@@ -5,9 +5,8 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-- 🌱 I’m currently learning Frontend .
-- ![javascript-on-fire](https://github.com/bigyanthapa2/bigyanthapa2/assets/147377297/7046a831-1ce1-42a6-b983-627ffe208dd9width="5px";height="5px";)  I’m currently working on javascript .
-
+- 🗺 I’m currently learning Frontend .
+- 🧑🏻‍💻  I’m currently working on javascript .
 - 😄 Pronouns: he/him
 <br>
 
