@@ -80,9 +80,9 @@
 <br/>
 
 <div align="center">
-<a href="https://www.instagram.com/bigyan_thapa__/">
+<a href="https://www.instagram.com/bigyan_thapa__/">Know Me
     <img src="https://img.shields.io/badge/instagram-333333?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>  Know Me</div>
+  </a>  </div>
 
 
 
