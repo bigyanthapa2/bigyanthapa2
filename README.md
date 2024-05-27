@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=F72060&width=435&lines=Hi+!++Myself+Bigyan+Thapa;Welcome+to+my+Profile;Lets+Rock+Together_୧⍢⃝୨)](https://git.io/typing-svg)
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = ""F:\photos\lv_0_20230407122115.mp4"></Picture>
+
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
