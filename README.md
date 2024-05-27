@@ -14,12 +14,12 @@
  
  🌱 I’m currently learning **Java**
 
-💬 Ask me about **Node.js, React, Css , HTML or anything [here]()**
+💬 Ask me about **Node.js, React, Css , HTML or anything [here]()**<br>
 
-⚡ Fun fact  **"You can't hum while holding your nose."**
+⚡ Fun fact  **"You can't hum while holding your nose."**<br>
 
  </div>
- <h3 align="center" color="yellow">You can contact me on :</h3>
+ <h3 align="center" color:"yellow">You can contact me on :</h3>
  
 <div align="center"> 
   <a href="thapabigyan860@gmail.com">
