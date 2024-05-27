@@ -7,7 +7,7 @@
 <br><br>
 - 🗺 I’m currently learning Frontend .
 - 🧑🏻‍💻  I’m currently working on javascript .
-- 😄 Pronouns: he/him
+- 🤵🏻 Pronouns: he/him
 <br>
 
 ## 🛠️ My Skills
