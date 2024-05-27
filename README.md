@@ -6,7 +6,7 @@
 
 <br><br>
 - 🌱 I’m currently learning Frontend .
-- ![javascript-on-fire](https://github.com/bigyanthapa2/bigyanthapa2/assets/147377297/7046a831-1ce1-42a6-b983-627ffe208dd9)  I’m currently working on javascript .
+- ![javascript-on-fire](https://github.com/bigyanthapa2/bigyanthapa2/assets/147377297/7046a831-1ce1-42a6-b983-627ffe208dd9width="5px";height="5px";)  I’m currently working on javascript .
 
 - 😄 Pronouns: he/him
 <br>
