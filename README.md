@@ -16,7 +16,7 @@
 
 💬 Ask me about **Node.js, React, Css , HTML or anything [here]()**
 
-⚡ Fun fact **You can't hum while holding your nose.**
+⚡ Fun fact  **"You can't hum while holding your nose."**
 
  </div>
  
