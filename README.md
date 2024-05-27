@@ -82,7 +82,9 @@
 <div align="center">
 <a href="https://www.instagram.com/bigyan_thapa__/">
     <img src="https://img.shields.io/badge/Contact Me-333333?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>  </div>
+  </a> 
+    <a href="
+</div>
 
 
 
